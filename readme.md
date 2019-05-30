@@ -68,6 +68,14 @@ Yuanxin Liu:
 3. Bookmark remove function(Back end)
 4. Bookmark category displaying optimization.
 
+Jiaqian Zhang:
+1. Help complete UI part (Front end)
+2. Help complete search part (Front and back end)
+3. Help complete add and edit function (Front and back end)
+4. Help complete add to favorite function (Front and back end)
+5. Help all the database operation and test bugs then fix them (Back end)
+6. Help all the group member to finish their part.
+
 
 ## Support
 - Please email: xyin7@stevens.edu for any issues or questions.
